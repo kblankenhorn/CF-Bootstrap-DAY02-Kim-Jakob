@@ -1,0 +1,21 @@
+body {
+        background: url('https://i.imgur.com/mGV7yGM.jpg')
+}
+
+p{
+	background-color: rgba(0, 0, 0, .6);
+	color: green;
+}
+
+.nav-pills .nav-link.active {
+    background-color: green;
+    color: white;
+}
+
+.nav-pills, .navbar, .nav a{
+	color: white;
+}
+
+.jumbotron{
+	background-color: rgba(0, 0, 0, .6);
+}
